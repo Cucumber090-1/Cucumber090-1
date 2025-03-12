@@ -14,6 +14,6 @@ I am backend developer from Saint-Petersburg, also currently studying at [ITMO u
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-- 👽 I speak: Russian(native), English(B2)
-- 💬 My social media: [Email](mailto:gavroleg7@gmail.com), [Telegram](https://t.me/OoOoOoOoOoOoOoOoOoOR)
+- 👽 I speak: Russian(native), English(C1)
+- 💬 My social media: [Email](mailto:gavroleg7@gmail.com), [Telegram](https://t.me/olg_gvr)
 - 🏋️ Come with me to gym session!!
